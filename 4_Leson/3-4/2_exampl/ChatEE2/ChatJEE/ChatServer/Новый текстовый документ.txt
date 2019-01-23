@@ -1,0 +1,3 @@
+class AddServlet-----method doPost
+
+byte[] buf = new byte [req.getContentLength()];

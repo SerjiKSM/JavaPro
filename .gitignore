@@ -1,0 +1,8 @@
+.idea
+target
+*.iml
+lib
+out
+src/main/resources/META-INF/persistence.xml
+src/main/resources/META-INF/MANIFEST.MF
+classes
